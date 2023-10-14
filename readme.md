@@ -1,4 +1,4 @@
-1. Buka halaman repositori dlib di GitHub dengan mengunjungi tautan berikut: https://github.com/davisking/dlib
+1. Buka halaman repositori dlib di GitHub dengan mengunjungi tautan berikut: https://github.com/fikri-taufiqurrahman/dlib
 2. Di halaman repositori, klik tombol "Code" yang berwarna hijau di bagian atas kanan.
 3. Setelah itu, pilih opsi "Download ZIP" untuk mengunduh repositori dlib dalam format ZIP ke komputer Anda.
 4. Ekstrak berkas ZIP yang telah Anda unduh ke lokasi yang Anda inginkan di komputer Anda.
